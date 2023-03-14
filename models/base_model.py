@@ -1,11 +1,3 @@
-AirBnB_clone/models/base_model.py /
-
-Pierre Forcioli add tests
-Latest commit f9c4092 on Feb 16, 2021
- History
- 0 contributors
-57 lines (47 sloc)  1.97 KB
-
 #!/usr/bin/python3
 """This is the Base Model module.
 Contains the BaseModel class which will be the
